@@ -3,7 +3,7 @@ This repository contains datasets and code scripts built as part of the DIGISURV
 
 [01: Derived Twitter/X Variables](https://github.com/digisurvor/data_and_code/tree/main/twitter_derived_variables) 
 
-This directory contains data and code which can be used to derive new variables from Twitter/X datasets.(Currently Empty)
+This directory contains data and code which can be used to derive new variables from Twitter/X datasets.
 
 [02: Derived Web-Link Variables](https://github.com/digisurvor/data_and_code/tree/main/web_link_derived_variables)
 
